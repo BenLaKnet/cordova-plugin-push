@@ -127,6 +127,7 @@
 
     <framework src="PushKit.framework"/>
 
+    <!-- supprimer appels a cocoapods 
     <podspec>
       <config>
         <source url="https://cdn.cocoapods.org/"/>
@@ -135,6 +136,7 @@
         <pod name="Firebase/Messaging" spec="$IOS_FIREBASE_MESSAGING_VERSION" />
       </pods>
     </podspec>
+    -->
   </platform>
 
 </plugin>
